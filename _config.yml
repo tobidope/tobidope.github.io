@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Tobias Bell
+description: Bookmark this to keep an eye on my project updates!
+include: [".well-known"]
