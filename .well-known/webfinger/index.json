@@ -1,0 +1,23 @@
+{
+    "subject": "acct:tobias@social.cologne",
+    "aliases": [
+        "https://social.cologne/@tobias",
+        "https://social.cologne/users/tobias"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://social.cologne/@tobias"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://social.cologne/users/tobias"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://social.cologne/authorize_interaction?uri={uri}"
+        }
+    ]
+}
