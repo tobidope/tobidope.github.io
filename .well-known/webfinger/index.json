@@ -1,19 +1,19 @@
 {
-    "subject": "acct:tobias@social.cologne",
+    "subject": "acct:tobidope@social.cologne",
     "aliases": [
-        "https://social.cologne/@tobias",
-        "https://social.cologne/users/tobias"
+        "https:///@tobidope",
+        "https://social.cologne/users/tobidppe"
     ],
     "links": [
         {
             "rel": "http://webfinger.net/rel/profile-page",
             "type": "text/html",
-            "href": "https://social.cologne/@tobias"
+            "href": "https://social.cologne/@tobidope"
         },
         {
             "rel": "self",
             "type": "application/activity+json",
-            "href": "https://social.cologne/users/tobias"
+            "href": "https://social.cologne/users/tobidope"
         },
         {
             "rel": "http://ostatus.org/schema/1.0/subscribe",
